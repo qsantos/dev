@@ -10,6 +10,12 @@ Links
 The file [LINKS.md](LINKS.md) is a collection of links pointing to
 potentially useful resources. Use wisely.
 
+Sysinfo
+-------
+
+The file [sysinfo.c](sysinfo.c) tries to get some hardware information on
+the system such as CPU count and memory size for main operating systems.
+
 Makefile for KSP mods
 ---------------------
 
