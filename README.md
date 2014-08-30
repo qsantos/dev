@@ -4,6 +4,12 @@ Random dev thingies
 Just a set of [files](https://en.wikipedia.org/wiki/Everything_is_a_file)
 that some might or might not find useful for themselves.
 
+Links
+-----
+
+The file [LINKS.md](LINKS.md) is a collection of links pointing to
+potentially useful resources. Use wisely.
+
 Makefile for KSP mods
 ---------------------
 
