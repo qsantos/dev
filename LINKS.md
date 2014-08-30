@@ -30,3 +30,32 @@ include [terrorists](https://en.wikipedia.org/wiki/Terrorism),
 [pedophiles](https://en.wikipedia.org/wiki/Pedophilia) and [text-based
 browser](https://en.wikipedia.org/wiki/Text-based_web_browser) fetishists
 such as [hackers](https://en.wikipedia.org/wiki/Script_kiddie).
+
+General programming
+-------------------
+
+* [An overlooked security issue in bash](http://www.dwheeler.com/essays/filenames-in-shell.html)
+* [Determinism/consistency in floating point](http://yosefk.com/blog/consistency-how-to-defeat-the-purpose-of-ieee-floating-point.html)
+* [About undefined behaviour](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
+* [More about undefined behaviour](http://blog.regehr.org/archives/213)
+
+
+Game development
+----------------
+
+* [Efficient object pool](http://gamedev.stackexchange.com/questions/33888/what-is-the-most-efficient-container-to-store-dynamic-game-objects-in)
+* [Continuous world in Dragon Siege](http://scottbilas.com/files/2003/gdc_san_jose/continuous_world_paper.pdf)
+* [Networking in Valve's games](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
+* [AI in Darwinia](http://www.gamasutra.com/view/feature/132386/developing_ai_in_darwinia.php?print=1)
+
+Red Blob Games (Amit Patel)
+---------------------------
+
+[Red Blob Games](http://www.redblobgames.com/) has been around for
+some time. Amit Patel has written some thorough articles with excellent
+illustrations and complete explanations. Don't forget to check out the
+other articles.
+
+* [Path finding](http://theory.stanford.edu/~amitp/GameProgramming/)
+* [Map generation (Voronoi/Fortune, biomes, noise)](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
+* [Visual field in 2D](http://www.redblobgames.com/articles/visibility/)
