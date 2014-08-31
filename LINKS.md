@@ -31,6 +31,7 @@ include [terrorists](https://en.wikipedia.org/wiki/Terrorism),
 browser](https://en.wikipedia.org/wiki/Text-based_web_browser) fetishists
 such as [hackers](https://en.wikipedia.org/wiki/Script_kiddie).
 
+
 General programming
 -------------------
 
@@ -47,6 +48,17 @@ Game development
 * [Continuous world in Dragon Siege](http://scottbilas.com/files/2003/gdc_san_jose/continuous_world_paper.pdf)
 * [Networking in Valve's games](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
 * [AI in Darwinia](http://www.gamasutra.com/view/feature/132386/developing_ai_in_darwinia.php?print=1)
+
+
+Random ASCII
+------------
+
+[Random ASCII](https://randomascii.wordpress.com/) contains some very useful information about floating point numbers.
+
+* [Again, on undefined behaviour](http://randomascii.wordpress.com/2014/05/19/undefined-behavior-can-format-your-drive/)
+* [Simple and stable way of storing floats](https://randomascii.wordpress.com/2012/03/08/float-precisionfrom-zero-to-100-digits-2/)
+* [On the stability of this method](http://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/)
+* [Do not store total elapsed time in floats](http://randomascii.wordpress.com/2012/02/13/dont-store-that-in-a-float/)
 
 Red Blob Games (Amit Patel)
 ---------------------------
