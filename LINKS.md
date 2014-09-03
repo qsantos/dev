@@ -44,11 +44,13 @@ General programming
 Computer arithmetic
 -------------------
 
+* [What Every Computer Scientist Should Know About Floating-Point Arithmetic (HTML)](http://docs.oracle.com/cd/E19422-01/819-3693/ncg_goldberg.html)
 * [Determinism/consistency in floating point](http://yosefk.com/blog/consistency-how-to-defeat-the-purpose-of-ieee-floating-point.html)
 * [Simple and stable way of storing floats](https://randomascii.wordpress.com/2012/03/08/float-precisionfrom-zero-to-100-digits-2/) *(Random ASCII)*
 * [On the stability of this method](http://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/) *(Random ASCII)*
 * [Do not store total elapsed time in floats](http://randomascii.wordpress.com/2012/02/13/dont-store-that-in-a-float/) *(Random ASCII)*
->>>>>>> 9917043... Changed links organization
+* [Analysis of fixed point arithmetic](http://www.superkits.net/whitepapers/floating-point-to-fixed.pdf)
+* [Introduction to fixed point arithmetic](http://xcore.github.io/doc_tips_and_tricks/fixed-point.html)
 
 
 Game development
