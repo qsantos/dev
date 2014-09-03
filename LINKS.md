@@ -50,6 +50,18 @@ Game development
 * [AI in Darwinia](http://www.gamasutra.com/view/feature/132386/developing_ai_in_darwinia.php?print=1)
 
 
+Path finding and motion planing
+-------------------------------
+
+* [Overview of motion planing](http://www.gamasutra.com/blogs/MatthewKlingensmith/20130907/199787/Overview_of_Motion_Planning.php?print=1)
+* [A* algorithm](http://theory.stanford.edu/~amitp/GameProgramming/)
+* [Theta* algorithm](http://aigamedev.com/open/tutorials/theta-star-any-angle-paths/)
+* [Lazy Theta*](http://aigamedev.com/open/tutorial/lazy-theta-star/)
+* [Potential fields](http://aigamedev.com/open/tutorials/potential-fields/)
+* [Clearance, HPA*](http://aigamedev.com/open/tutorial/clearance-based-pathfinding/)
+* [Symmetry breaking](http://aigamedev.com/open/tutorial/symmetry-in-pathfinding/)
+
+
 Open assets
 -----------
 
@@ -84,6 +96,5 @@ some time. Amit Patel has written some thorough articles with excellent
 illustrations and complete explanations. Don't forget to check out the
 other articles.
 
-* [Path finding](http://theory.stanford.edu/~amitp/GameProgramming/)
 * [Map generation (Voronoi/Fortune, biomes, noise)](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
 * [Visual field in 2D](http://www.redblobgames.com/articles/visibility/)
