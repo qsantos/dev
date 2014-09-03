@@ -50,6 +50,21 @@ Game development
 * [AI in Darwinia](http://www.gamasutra.com/view/feature/132386/developing_ai_in_darwinia.php?print=1)
 
 
+Open assets
+-----------
+
+* [Country sprites](https://github.com/djaiss/mapsicon)
+* [Country flags (README is broken)](https://github.com/titpetric/iso-country-flags-svg-collection)
+* [Icons](http://sourceforge.net/projects/openiconlibrary/)
+* [Images (sprites, textures, ...) and audio (sounds, music) for games](http://opengameart.org/)
+* [Music](http://www.incompetech.com/)
+* [More music](http://soundimage.org/)
+* [Vector art](http://www.vectoropenstock.com/)
+* [Music and image pack for games](http://open.commonly.cc/unlocked)
+* [Another image pack for games](http://www.rpgmakerweb.com/download/additional/other-materials)
+* [Numerous character sprites](http://blogoscoped.com/archive/2006-08-08-n51.html)
+
+
 Random ASCII
 ------------
 
@@ -59,6 +74,7 @@ Random ASCII
 * [Simple and stable way of storing floats](https://randomascii.wordpress.com/2012/03/08/float-precisionfrom-zero-to-100-digits-2/)
 * [On the stability of this method](http://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/)
 * [Do not store total elapsed time in floats](http://randomascii.wordpress.com/2012/02/13/dont-store-that-in-a-float/)
+
 
 Red Blob Games (Amit Patel)
 ---------------------------
