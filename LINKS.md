@@ -80,6 +80,18 @@ Open assets
 * [Numerous character sprites](http://blogoscoped.com/archive/2006-08-08-n51.html)
 
 
+Game design
+-----------
+
+* [Decent ideas for game plots](http://www.rpglibrary.org/articles/storytelling/36plots.php)
+* [A checklist for pitfalls](http://www.designersnotebook.com/Design_Resources/No_Twinkie_Database/no_twinkie_database.htm)
+* [Why yous hould share your game designs](http://www.lostgarden.com/2005/08/why-you-should-share-your-game-designs.html)
+* [Some useful advices](http://www.lostgarden.com/2006/10/persistent-myths-about-game-design.html)
+* [The laws of game design](http://www.raphkoster.com/gaming/laws.shtml)
+* [Skill progression](http://www.gamasutra.com/blogs/OzzieSmith/20130205/185943/Player_Skill_Character_Skill_and_Skill_Progression_Systems.php?print=1)
+* [The abstraction of skill](http://www.gamasutra.com/view/feature/134886/the_abstraction_of_skill_in_game_.php?print=1)
+
+
 More articles
 -------------
 
